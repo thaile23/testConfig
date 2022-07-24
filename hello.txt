@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hit adshoga dfaofaf oasd oke oke eokasd asca adc ca dca dc adca
+=======
+hit adshoga dfaofaf oasd oke oke eok oko kokoko kokokok oko
+>>>>>>> b129c1ee3d0a0810bf51392f958dd995f50fb76d
